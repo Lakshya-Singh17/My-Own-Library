@@ -1,2 +1,2 @@
-# My-Own-Library
-bounceOff() and isTouching() functions in the lib.
+# p5.play-boilerplate
+Boiler plate for p5.play
